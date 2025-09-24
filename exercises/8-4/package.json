@@ -1,0 +1,10 @@
+{
+  "name": "regex-parser",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Regular expression parser with character set support",
+  "main": "regex-parser.js",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
