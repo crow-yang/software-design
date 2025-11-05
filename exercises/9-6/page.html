@@ -1,0 +1,12 @@
+<html>
+<body>
+  <div z-include="header.html"></div>
+  <main>
+    <p>This is the main content.</p>
+    <ul z-loop="item:items">
+      <li z-var="item"></li>
+    </ul>
+  </main>
+  <div z-include="footer.html"></div>
+</body>
+</html>

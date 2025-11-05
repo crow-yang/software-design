@@ -1,0 +1,21 @@
+{
+  "name": "page-templates-z-include",
+  "version": "1.0.0",
+  "description": "Page template system with z-include directive (Exercise 9-6)",
+  "type": "module",
+  "main": "expander.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "templates",
+    "html",
+    "include"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "htmlparser2": "^9.0.0",
+    "domhandler": "^5.0.3"
+  }
+}
